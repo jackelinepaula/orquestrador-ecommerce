@@ -1,0 +1,6 @@
+@PedidosApiMock_HostAddress = http://localhost:5085
+
+GET {{PedidosApiMock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

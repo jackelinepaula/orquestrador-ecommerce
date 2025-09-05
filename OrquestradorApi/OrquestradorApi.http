@@ -1,0 +1,6 @@
+@OrquestradorApi_HostAddress = http://localhost:5199
+
+GET {{OrquestradorApi_HostAddress}}/api/orquestrador
+Accept: application/json
+
+###

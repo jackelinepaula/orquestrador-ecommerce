@@ -1,0 +1,6 @@
+@PagamentosApiMock_HostAddress = http://localhost:5179
+
+GET {{PagamentosApiMock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
